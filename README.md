@@ -20,12 +20,12 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kahn0101&theme=tokyonignt)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kahn0101&theme=tokyodark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahn0101&theme=tokyonignt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahn0101&theme=tokyodark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kahn0101&show_icons=true&theme=tokyonignt)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kahn0101&show_icons=true&theme=tokyodark)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kahn0101&theme=tokyonignt)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kahn0101&theme=tokyodark)  
 
 ![Profile views](https://gpvc.arturio.dev/kahn0101)  
