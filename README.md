@@ -1,14 +1,14 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kahn0101.kahn0101">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=freedevsoft.freedevsoft">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Thunder+Kahn....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Michaelr+Kalchenko....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <br>
 <p align="center">
-  Hi, I'm Thunder, Full Stack Engineer & Software Developer from Russia
+  Hi, I'm Michael, Full Stack Engineer & Software Developer from Russia
   <br>
   <br>
   🔬 I'm currently studying for a master's degree in Moscow University Computer Engineering Department
@@ -19,9 +19,9 @@
   <br>
   📚 I’m currently learning how to build Blockchain Dapp.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/kahn0101/kahn0101/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/freedevsoft/freedevsoftfreedevsoft/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: tkahn0430@gmail.com">tkahn0430@gmail.com</a>
+  📫 How to reach me: <a href="mailto: michaeldevsoft@gmail.com">michaeldevsoft@gmail.com</a>
 </p>
 
 <hr>
@@ -164,33 +164,33 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=kahn0101&theme=react&border=61dafb&hide_border=true" alt="kahn0101" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=freedevsoft&theme=react&border=61dafb&hide_border=true" alt="freedevsoft" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=kahn0101&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=freedevsoft&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahn0101&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freedevsoft&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=kahn0101&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=freedevsoft&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <hr>
 <h2 align="center">⚡ Profile Trophy ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kahn0101&theme=react-dark&bg_color=20232a&hide_border=true" alt="kahn0101" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freedevsoft&theme=react-dark&bg_color=20232a&hide_border=true" alt="freedevsoft" /></a>
   </div>
   <br>
 </p>
 <hr>
 
 <h4 align="center">
-  <a href="https://github.com/kahn0101?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
+  <a href="https://github.com/freedevsoft?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
 
