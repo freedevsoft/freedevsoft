@@ -21,7 +21,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/freedevsoft/freedevsoftfreedevsoft/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: michaeldevsoft@gmail.com">michaeldevsoft@gmail.com</a>
+  📫 How to reach me: <a href="mailto: michaeldevsoft@gmail.com">tkahn0430@gmail.com</a>
 </p>
 
 <hr>
