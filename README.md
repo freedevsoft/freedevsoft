@@ -126,12 +126,6 @@
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="25"/>
   </a>
-  <a href="https://vuetifyjs.com/en/" target="_blank">
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="25"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" height="25"/>
-  </a>
 </p>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
