@@ -2,18 +2,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;💖I+am+Michael+Kalchenko....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;💖I+am+a+Full+Stack+Developer....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <br>
 <p align="center">
-  Hi, I'm Michael, Full Stack Engineer & Software Developer from Russia
+  Hi, I'm a Full Stack Engineer & Software Developer
   <br>
-  <br>
-  🔬 I'm currently studying for a master's degree in Moscow University Computer Engineering Department
-  <br>
-  🎓 I graduated from Singapore Institute of Technology Computer Engineering Department
   <br>
   💻 I love writing code and learn anythings about it
   <br>
@@ -21,7 +17,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/freedevsoft/freedevsoftfreedevsoft/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: michaeldevsoft@gmail.com">tkahn0430@gmail.com</a>
+  📫 How to reach me: <a href="mailto: tkahn0430@gmail.com">tkahn0430@gmail.com</a>
 </p>
 
 <hr>
@@ -54,24 +50,12 @@
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="25"/>
-  </a> 
-  <a href="https://www.cypress.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" height="25"/>
-  </a>
-  <a href="https://d3js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" height="25"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" height="25"/>
   </a>
   <a href="https://www.electronjs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" height="25"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="25"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="25"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="25"/>
@@ -88,17 +72,8 @@
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="25"/>
   </a>
-  <a href="https://ionicframework.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" height="25"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="25"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="25"/>
-  </a>
-  <a href="https://mochajs.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" height="25"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="25"/>
